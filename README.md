@@ -30,32 +30,32 @@ macOS (arm64), and has been packaged for multiple Linux distributions.
 
 - Supported file formats:
 
-  | Format   | Description                                       | Create | Read | Write |
-  |----------|---------------------------------------------------|:------:|:----:|:-----:|
-  | 007      | Asset pack (007 - Nightfire)                      |   ❌    |  ✅   |   ❌   |
-  | APK      | Axiom PacK file (Fairy Tale Busters)              |   ✅    |  ✅   |   ✅   |
-  | BEE_PACK | BEE2.4 Package                                    |   ✅    |  ✅   |   ✅   |
-  | BMZ      | Bonus Map Zip (Source Engine)                     |   ✅    |  ✅   |   ✅   |
-  | BSP      | Source 1 Map                                      |  N/A   |  ✅   |   ✅   |
-  | FGP      | File group (PS3, The Orange Box)                  |   ✅    |  ✅   |   ✅   |
-  | FPX      | VPK modification (Tactical Intervention)          |   ✅    |  ✅   |   ✅   |
-  | GCF      | Game Cache File (Pre-SteamPipe Steam games)       |   ❌    |  ✅   |   ❌   |
-  | GMA      | Garry's Mod Addon                                 |   ❌    |  ✅   |   ✅   |
-  | HOG      | Unknown acronym (Descent)                         |   ❌    |  ✅   |   ❌   |
-  | OL       | Worldcraft Object Library                         |   ❌    |  ✅   |   ❌   |
-  | ORE      | Unknown acronym (Narbacular Drop)                 |   ❌    |  ✅   |   ❌   |
-  | PAK      | PAcK file (Quake, original Half-Life, HROT, etc.) |   ✅    |  ✅   |   ✅   |
-  | PCK      | Godot PaCK file (Standalone or embedded)          |   ✅    |  ✅   |   ✅   |
-  | PK3      | PacK v3 (Quake II)                                |   ✅    |  ✅   |   ✅   |
-  | PK4      | PacK v4 (Quake IV, Doom 3)                        |   ✅    |  ✅   |   ✅   |
-  | PKZ      | PacK file (Quake II RTX)                          |   ✅    |  ✅   |   ✅   |
-  | SIN      | SiN pack file (SiN 1998)                          |   ❌    |  ✅   |   ✅   |
-  | VPK      | Valve PacK file (Source Engine)                   |   ✅    |  ✅   |   ✅   |
-  | VPK      | Vampire PacK file (V:TMB)                         |   ✅    |  ✅   |   ✅   |
-  | VPP      | Volition Pack file (Red Faction, Saints Row)      |   ❌    |  ✅   |   ❌   |
-  | WAD      | Where's All the Data (GoldSrc Engine)             |   ✅    |  ✅   |   ✅   |
-  | XZP      | Xbox ZiP (Xbox Half-Life 2)                       |   ❌    |  ✅   |   ❌   |
-  | ZIP      | ZIP file                                          |   ✅    |  ✅   |   ✅   |
+  | Format   | Description                                            | Create | Read | Write |
+  |----------|--------------------------------------------------------|:------:|:----:|:-----:|
+  | 007      | Asset pack (007 - Nightfire)                           |   ❌    |  ✅   |   ❌   |
+  | APK      | Axiom PacK file (Fairy Tale Busters)                   |   ✅    |  ✅   |   ✅   |
+  | BEE_PACK | BEE2.4 Package                                         |   ✅    |  ✅   |   ✅   |
+  | BMZ      | Bonus Map Zip (Source Engine)                          |   ✅    |  ✅   |   ✅   |
+  | BSP      | Source 1 Map                                           |  N/A    |  ✅   |   ✅   |
+  | FGP      | File group (PS3, The Orange Box)                       |   ✅    |  ✅   |   ✅   |
+  | FPX      | VPK modification (Tactical Intervention)               |   ✅    |  ✅   |   ✅   |
+  | GCF      | Game Cache File (Pre-SteamPipe Steam games)            |   ❌    |  ✅   |   ❌   |
+  | GMA      | Garry's Mod Addon                                      |   ❌    |  ✅   |   ✅   |
+  | HOG      | Unknown acronym (Descent)                              |   ❌    |  ✅   |   ❌   |
+  | OL       | Worldcraft Object Library                              |   ❌    |  ✅   |   ❌   |
+  | ORE      | Unknown acronym (Narbacular Drop)                      |   ❌    |  ✅   |   ❌   |
+  | PAK      | PAcK file (Quake I&II, original Half-Life, HROT, etc.) |   ✅    |  ✅   |   ✅   |
+  | PCK      | Godot PaCK file (Standalone or embedded)               |   ✅    |  ✅   |   ✅   |
+  | PK3      | PacK v3 (Quake III, RTCW, W:ET)                        |   ✅    |  ✅   |   ✅   |
+  | PK4      | PacK v4 (Quake IV, Doom 3)                             |   ✅    |  ✅   |   ✅   |
+  | PKZ      | PacK file (Quake II RTX)                               |   ✅    |  ✅   |   ✅   |
+  | SIN      | SiN pack file (SiN 1998)                               |   ❌    |  ✅   |   ✅   |
+  | VPK      | Valve PacK file (Source Engine)                        |   ✅    |  ✅   |   ✅   |
+  | VPK      | Vampire PacK file (V:TMB)                              |   ✅    |  ✅   |   ✅   |
+  | VPP      | Volition Pack file (Red Faction, Saints Row)           |   ❌    |  ✅   |   ❌   |
+  | WAD      | Where's All the Data (GoldSrc Engine)                  |   ✅    |  ✅   |   ✅   |
+  | XZP      | Xbox ZiP (Xbox Half-Life 2)                            |   ❌    |  ✅   |   ❌   |
+  | ZIP      | ZIP file                                               |   ✅    |  ✅   |   ✅   |
 
 - Preview files contained within the pack file without extracting them:
   - Audio
